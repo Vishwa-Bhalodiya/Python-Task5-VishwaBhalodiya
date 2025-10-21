@@ -21,6 +21,10 @@ The app allows creating questions with multiple options and evaluates user submi
 - Django 4.x (or compatible)
 - SQLite (default) or any other database configured in `settings.py`
 
+
+---
+
+
 ## Setup & How to Run
 1.Clone the repository
 ``` bash
@@ -46,6 +50,10 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
+
+
+---
+
 
 ## Access the application
 
